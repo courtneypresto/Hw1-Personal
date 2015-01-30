@@ -1,0 +1,48 @@
+Courtney-Lynn Presto - Homework 1
+
+PROBLEM 1
+Question A:
+	1) Looking up information relative to the course online
+	3) Talking to classmates about the problems
+	5) Asking the course staff for help
+
+Question B: 
+	Quoted from the syllabus: "You are free to use other compilers or IDEs to develop your code, but in the end, it has to work with g++ in the virtual machine."
+
+	so,
+		gedit
+		emacs
+		Eclipse
+		Microsoft Virtual Studio
+		vim
+		notepad
+		Sublime
+
+Question C:
+	Each student can use up to 2 of their 4 grace days on a single assignment.
+
+Question D:
+	Fill in a Late Submission Google Form
+
+PROBLEM 2
+Question A:
+	Terminal (Mac or Linux)
+
+Question B:
+	1: git add hw1q2b.cpp
+	   git commit -m "This is an example of a comment"
+   	2: git log -p -3
+
+Question C:
+	It commits all three things using the same comment. git push 
+	will push them all to git. 
+
+Problem 3: 
+Okay... I did that!
+
+Problem 4:
+	see code.
+Problem 5: 
+	see code. 
+
+
